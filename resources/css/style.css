@@ -7,11 +7,59 @@ body{
     margin: 8px;
 }
 
+h1{
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
 p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
     color: Gray;
     font-size: 21px;
 }
 
-.footer {
-    text-align: right;
+
+#download{
+    font-size: 16px;
+    color: aquamarine;
 }
+
+.travel {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.description {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+    font-weight: normal;
+}
+
+.end {
+    margin-top: 25px;
+}
+
+.excursion{
+    text-align: right;
+    margin-right: auto;
+    color: gray;
+    display: inline;
+    
+}
+.last {
+    font-weight: normal;
+    font-size: 21px;
+    display: inline-flex;
+    
+}
+
+    
